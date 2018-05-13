@@ -8,7 +8,9 @@
 # 最新整理
 
 1、简述synchronized?Object；Monitor机制；
+
 2、简述happen-before规则；
+
 JUC和Object；Monitor机制区别是什么；简述AQS原理；
 简述DCL失效原因，解决方法；
 简述nio原理；
